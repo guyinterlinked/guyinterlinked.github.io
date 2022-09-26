@@ -4,15 +4,23 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Guy, Interlinked
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hi, I'm Guy, and this is me, interlinked. I'm interested in the things that connect things (and myself) to other things. I hope to explore that here.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Motivation
 
+I've been collecting things and connecting things for many years, but not in any meaningful sense, at least not to anyone but myself. Now I plan on doing it on this blog. I'm not new to technology, but I've not spent much time with git or any major development project organization, so this is a way for me to:
+- Express myself
+- Learn Git, GitHub, Jekyll
+- Write walkthroughs of various tasks
+- Connect with other people
+- Experiment with my "brand"
 
-[jekyll-organization]: https://github.com/jekyll
+## Author
+
+**Guy Russell**
+
+- [Profile](https://github.com/guyinterlinked)
+- [Email](mailto:guy@guyinterlinked.com)
+- [Website](https://guyinterlinked.com)

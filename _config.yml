@@ -29,6 +29,8 @@ url: "https://guyinterlinked.com" # the base hostname & protocol for your site, 
 twitter_username: guyinterlinked
 github_username:  guyinterlinked
 
+timezone: America/Boise
+
 # Build settings
 theme: minima
 plugins:
