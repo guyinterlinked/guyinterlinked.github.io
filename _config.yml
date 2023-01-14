@@ -29,6 +29,8 @@ twitter_username: guyinterlinked
 github_username:  guyinterlinked
 
 timezone: America/Boise
+excerpt_separator: <!-- more -->
+
 
 # Build settings
 theme: minima
