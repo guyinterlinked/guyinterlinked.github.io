@@ -6,6 +6,8 @@ date: 2023-02-10 20:56:43 -0700
 
 If you have been reading the blog the last few weeks, you will have undoubtably noticed I've been phoning it in. If you haven't been reading the blog the last few weeks, you are probably not reading this either. I *have* been working on a few different posts, but they aren't coming together as quickly as I would like. I promised myself I wouldn't make a post explaining why I haven't been posting,[^1] but as my self-imposed deadline approaches, I become desperate.
 
+<!-- more -->
+
 In my most promising prospective post, I plan to propound a premise I have for a video game.[^2] I wanted to explore all the components and inspiration for the idea, but the post wasn't coming together into some kind of linear narrative or serial flow.
 
 Good thing the internet isn't serial.[^3]
