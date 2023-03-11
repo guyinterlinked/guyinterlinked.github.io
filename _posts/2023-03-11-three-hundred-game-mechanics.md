@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Three Hundred Game Mechanics"
-date: 2023-03-10 -0700
+date: 2023-03-11 12:36 -0700
 ---
 
 This post isn't about 300 game mechanics, it's about [Three Hundred Game Mechanics](http://www.squidi.net/three/index.php), the website by Sean Howard that was the instigating inspiration that convinced me to start [www.guyinterlinked.com](https://www.guyinterlinked.com).[^1] *Three Hundred* is as it sounds, a repository of (nearly) 300 game mechanics for all different types of games.[^2] According to the website's [about page](http://www.squidi.net/three/about.php)
