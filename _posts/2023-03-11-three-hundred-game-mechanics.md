@@ -42,7 +42,7 @@ If the door is the *actual thing* I want to make, then the guy closest to the do
 >My suggestion to you is to do something similar to what I did. Create a website to document your ideas. Find an illustrator (or draw it yourself) to bring life into your ideas and give them form. Don't just use text. Nobody on the internet can read. Also, I've found that attempting to illustrate concepts tends to make you think through them in more detail.
 > -- <cite>Sean Howard, Three Hundred</cite>
 
-I haven not given up hope of making *actual things.* I am encouraged by the example of Mark Brown from [Game Maker's Toolkit](https://www.youtube.com/@GMTK), who for years has been making great videos about game design and has recently started making great videos about [making his own game.](https://www.youtube.com/watch?v=4Q7eU3VUi14&list=PLc38fcMFcV_uH3OK4sTa4bf-UXGk2NW2n) 
+I have not given up hope of making *actual things.* I am encouraged by the example of Mark Brown from [Game Maker's Toolkit](https://www.youtube.com/@GMTK), who for years has been making great videos about game design and has recently started making great videos about [making his own game.](https://www.youtube.com/watch?v=4Q7eU3VUi14&list=PLc38fcMFcV_uH3OK4sTa4bf-UXGk2NW2n) 
 
 # Three Game Mechanics
 
