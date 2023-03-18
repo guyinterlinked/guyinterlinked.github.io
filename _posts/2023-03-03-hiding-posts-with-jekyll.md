@@ -5,7 +5,7 @@ date: 2023-03-03 21:22 -0700
 hidden: true
 ---
 
-A couple of weeks ago I was working on the [game of posts]({% post_url 2023-02-10-a-game-of-posts%}) and wanted to implement a structure with a main post visible from the home page, and from that main post link to other posts in the series (and from those posts, link to other posts, etc.). Asside from the main post, I would like all other posts in the series to be invisible from the home page, the idea being the only way to read the posts is to play the game.[^1] During my research I came across the post variable `hidden`, which when set `hidden: true` will prevent a given post from appearing in [`paginator.posts`](https://jekyllrb.com/docs/pagination/). I assumed that setting `hidden: true` would also hide the posts from other places, but that is not the case.[^2] 
+A couple of weeks ago I was working on the [game of posts]({% post_url 2023-02-10-a-game-of-posts%}) and wanted to implement a structure with a main post visible from the home page, and from that main post link to other posts in the series (and from those posts, link to other posts, etc.). Aside from the main post, I would like all other posts in the series to be invisible from the home page, the idea being the only way to read the posts is to play the game.[^1] During my research I came across the post variable `hidden`, which when set `hidden: true` will prevent a given post from appearing in [`paginator.posts`](https://jekyllrb.com/docs/pagination/). I assumed that setting `hidden: true` would also hide the posts from other places, but that is not the case.[^2] 
 
 My understanding of Jekyll is still quite superficial, and in a hurry to implement *something*, I misunderstood `hidden: true` to be a magic bullet I could ... shoot at the problem. Let's check out my [index.md](https://github.com/guyinterlinked/guyinterlinked.github.io/blob/main/index.md?plain=1) and see if I can get any clues. See below in it's entirety:
 
@@ -69,7 +69,7 @@ There are two paths to go about changing this. The simplest is to [override the 
 
 # Footnotes
 
-[^1]: When I first imagined the game of posts I simply planned to publish all posts on the same day, all visible. But this wouldn't actually work because if I publish six or seven posts on the same day, Jekyll is going to render them in a certain order, and the whole point of the game is that there isn't a specific order to the posts. I don't want there to be a "canonnical" order, explicitly or implicitly. In order to control the reader's flow through the posts, I'd have to create a single landing post, and branch out from there.
+[^1]: When I first imagined the game of posts I simply planned to publish all posts on the same day, all visible. But this wouldn't actually work because if I publish six or seven posts on the same day, Jekyll is going to render them in a certain order, and the whole point of the game is that there isn't a specific order to the posts. I don't want there to be a "canonical" order, explicitly or implicitly. In order to control the reader's flow through the posts, I'd have to create a single landing post, and branch out from there.
 
 [^2]: I bet you didn't notice that *this* post has `hidden: true`. Although this means that if and when I do figure out how to hide posts using the `hidden` variable, this post will disappear the main page. I appreciate the irony.
 
