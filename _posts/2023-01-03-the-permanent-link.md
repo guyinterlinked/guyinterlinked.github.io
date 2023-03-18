@@ -4,7 +4,7 @@ title: The Permanent Link
 ---
 
 ## No Permanence is Ours
-I've been delaying posting for some time because of permalinks. Web content is addressed by Uniform Resource Locators (URLs) and URLs are expected to remain the same as long as the page is published on the web. The reality is URLs change all the the time for all sorts of reasons, contributing to [link rot](https://en.wikipedia.org/wiki/Link_rot) and overall degredation of the web as a useful and interesting interconnection of resources.[^1]
+I've been delaying posting for some time because of permalinks. Web content is addressed by Uniform Resource Locators (URLs) and URLs are expected to remain the same as long as the page is published on the web. The reality is URLs change all the the time for all sorts of reasons, contributing to [link rot](https://en.wikipedia.org/wiki/Link_rot) and overall degradation of the web as a useful and interesting interconnection of resources.[^1]
 
 In order for me to publish things to the web they have to have URLs. This site uses Jekyll to convert markdown files to html, and Jekyll also handles URL construction based on configurable rules. The ways Jekyll can be configured to create URLs from content properties is outside the scope of this post, but the question I have to answer is, what are the best URLs to create? The answer is ... it depends. I created www.guyinterlinked.com with a few principles in mind, and and at least two of them are encoded in the URL of the website itself. The principles are interlinked-ness, and intentionality in expressing meaning in every design and structural choice of the site. After all, [the medium is the massage](https://en.wikipedia.org/wiki/The_Medium_Is_the_Massage)
 
