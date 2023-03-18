@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Familar Theme
+title: A Familiar Theme
 date: 2023-02-18 14:53 -0700
 ---
 
@@ -16,9 +16,9 @@ I was going through old personal records from elementary school, including repor
 
 >... Guy was full of ingenious ideas for this science project, but procrastinated a little on the building of his project. Nonetheless...
 
-> ... Unfortunately, the final draft copy of Guy's Martin Luther King essay was never recieved...
+> ... Unfortunately, the final draft copy of Guy's Martin Luther King essay was never received...
 
-> ... Guy negelcted to turn in his bibliography until after the due date of the project and therefore the project could not be submitted for judging.
+> ... Guy neglected to turn in his bibliography until after the due date of the project and therefore the project could not be submitted for judging.
 
 # Further Reading
  - [Psychology Today on Procrastination](https://www.psychologytoday.com/us/basics/procrastination)
