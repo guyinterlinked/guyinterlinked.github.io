@@ -31,7 +31,7 @@ The clever amongst you will see the problem: if I couldn't remember the rules, h
 
 # People hate to read.
 
-About six months ago,[^3] I suddenly found it absolutely neccessary I answer the question "Where on earth *had* I learned that hot design tip, and what *exactly* was it?" Long story short, after about an hour of googling I found the original article [Hot Design Tips](https://web.archive.org/web/20000302134538/http://hotwired.lycos.com/webmonkey/98/34/index1a_page13.html?tw=design) from one of the premier web development sites of the 2000s, Webmonkey.com. Webmonkey.com was mothballed several different times in the mid 2000s, until years ago aquired and eventually retired by Wired, but through the power of the [Wayback Machine](http://web.archive.org/) and screenshotting, I can share it below.
+About six months ago,[^3] I suddenly found it absolutely necessary I answer the question "Where on earth *had* I learned that hot design tip, and what *exactly* was it?" Long story short, after about an hour of googling I found the original article [Hot Design Tips](https://web.archive.org/web/20000302134538/http://hotwired.lycos.com/webmonkey/98/34/index1a_page13.html?tw=design) from one of the premier web development sites of the 2000s, Webmonkey.com. Webmonkey.com was mothballed several different times in the mid 2000s, until years ago acquired and eventually retired by Wired, but through the power of the [Wayback Machine](http://web.archive.org/) and screenshotting, I can share it below.
 
 ![Hot design tips as seen on Webmonkey](/assets/images/uploads/hot-design-tips.png)
 
@@ -41,7 +41,7 @@ To tell the truth, I expected it would take longer to find. Even so, the path I 
 
 Last weekend as I finally sat down to pen my grand adventure, I could find no record of what I had done. There were no notes, no text file or word document, no internet bookmarks or search history. I wasn't even able to remember which of my computers I had been using when I did the research.[^4] I don't know what past Guy was thinking, but he certainly wasn't doing more recently past Guy any favors. Sitting down to write, I felt like that person trying to tell you about an *incredible* movie they'd seen years ago, but only really remembering how they felt about it, so they waffle on for what seems like hours and you still wouldn't be able to name a main character or even the rudiments of story arc.[^5] 
 
-The frustrating part was that I wasn't really interested in writing about the rules themselves, the rules were a prentense to share the journey. But I had no journey, I only had the destination. I wasn't about to do the easy thing of just hoisting up the list and calling it a day. No indeed, I was going to re-create the journey, and then write about *that.*[^6]
+The frustrating part was that I wasn't really interested in writing about the rules themselves, the rules were a pretense to share the journey. But I had no journey, I only had the destination. I wasn't about to do the easy thing of just hoisting up the list and calling it a day. No indeed, I was going to re-create the journey, and then write about *that.*[^6]
 
 
 # People would rather wait than read.
