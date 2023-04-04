@@ -26,16 +26,16 @@ How do I find things on the internet I didn't know I wanted to find?[^5]
 
 I don't have a solution. Retro-vibe culture of [Neocities.org](https://neocities.org/browse) scratches some kind of itch, but it does so as it's own kind of walled garden. An article I found via a [tilde.club blog by hifukuno](https://tilde.club/~hifikuno/blog/maybe-i-donrsquot-want-to-be-the-best.html) suggests the solution is boutique search engines. In an page [Surf the web](https://sadgrl.online/cyberspace/surf-the-web), sadgrl.online outlines some ways to practice the ancient art of surfing the web as a kind of antidote to the modern web. I find the elements of surfing are contained in ethos  I'm cultivating at [guyinterlinked.com](guyinterlinked.com), but mainly jamming links to other sites everywhere.[^6] Whatever the solution is, I want to be a part of it.
 
+## Further Reading
 
-# Further Reading
- - [Hot Design Tips Circa 1998](% post_url 2023-01-14-hot-design-tips-circa-1998 %})
- - [cameronsworld.net](https://www.cameronsworld.net/): a collage of certified vintage web parts.
- - [Cowsplain](http://tilde.club/~harrison/cowsplain.html): a shell script to have a cow explain things to you
- - [The Future of Search is Boutique](https://future.com/the-future-of-search-is-boutique/)
- - [Retronaut Webring](https://webring.dinhe.net/)
- - [Convincing 90s fonts in modern browsers](https://vistaserv.net/blog/90s-fonts-modern-browsers)
+- [Hot Design Tips Circa 1998](% post_url 2023-01-14-hot-design-tips-circa-1998 %})
+- [cameronsworld.net](https://www.cameronsworld.net/): a collage of certified vintage web parts.
+- [Cowsplain](http://tilde.club/~harrison/cowsplain.html): a shell script to have a cow explain things to you
+- [The Future of Search is Boutique](https://future.com/the-future-of-search-is-boutique/)
+- [Retronaut Webring](https://webring.dinhe.net/)
+- [Convincing 90s fonts in modern browsers](https://vistaserv.net/blog/90s-fonts-modern-browsers)
 
-# Footnotes
+## Footnotes
 
 [^1]: I don't actually have an idea how to do this. The "modern web" [runs on ad revenue](https://cadryskitchen.com/food-blog-pet-peeves/), which I have zero interest in pursuing.
 
@@ -46,6 +46,5 @@ I don't have a solution. Retro-vibe culture of [Neocities.org](https://neocities
 [^4]: Social media sites have a clear profit motive to shape the way we spend our time, and have a [significant impact](https://www.sciencefocus.com/future-technology/trapped-the-secret-ways-social-media-is-built-to-be-addictive-and-what-you-can-do-to-fight-back/) on how we we consume "content."
 
 [^5]: Searching for this phrase ironically got me results that I know I *didn't* want. ![The one thing I didn't want](/assets/images/uploads/90s-retro-one-thing-i-know-i-didnt-want.png)
-
 
 [^6]: The linking at [www.guyinterlinked.com](https://www.guyinterlinked.com) is almost exclusively in-post. At some point I will make some non-post pages for more obvious linking. The embarrassing reason I haven't already is that my current theme displays links to all pages on the home page, behavior I do not want and haven't spent the time figuring out how to fix.
