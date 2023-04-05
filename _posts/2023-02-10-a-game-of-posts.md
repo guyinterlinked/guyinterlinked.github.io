@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Game of Posts
-date: 2023-02-10 20:56:43 -0700
+date: 2023-02-10 20:56
 ---
 
 If you have been reading the blog the last few weeks, you will have undoubtedly noticed I've been phoning it in. If you haven't been reading the blog the last few weeks, you are probably not reading this either. I *have* been working on a few different posts, but they aren't coming together as quickly as I would like. I promised myself I wouldn't make a post explaining why I haven't been posting,[^1] but as my self-imposed deadline approaches, I become desperate.
@@ -15,10 +15,12 @@ Good thing the internet isn't serial.[^3]
 Instead of writing a post from beginning to end, building structure from components introduced the post itself, I'm going to write about each aspect of the idea it's own post, and publish them all simultaneously. Each post will be linked to one or more of it's sibling posts, creating a kind of web. An interlinked web of hypertext pages.[^4]
 
 So if you are reading this, watch this space. If you are not reading this, I'm not sure exactly what to say.
-# Further Reading
- - [Spider and Web](https://eblong.com/zarf/zweb/tangle/)
 
-# Footnotes
+## Further Reading
+
+- [Spider and Web](https://eblong.com/zarf/zweb/tangle/)
+
+## Footnotes
 
 [^1]: It's like watching a YouTube video where the creator apologizes for not having made a video in a few months. Like, dude, I'm here from the future, I don't even know who you are.
 
