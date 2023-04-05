@@ -14,13 +14,13 @@ My workflow is a mess, but not such a mess that it prevents me from "doing thing
 
 ## The Cruft
 
-I've enjoyed [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint), as it definitely highlighted the lack of consistancy and standards in my earlier posts. I don't want to be a slave to code style, but I also like the consistancy and organization it brings. My more recent posts are already setup.
+I've enjoyed [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint), as it definitely highlighted the lack of consistency and standards in my earlier posts. I don't want to be a slave to code style, but I also like the consistency and organization it brings. My more recent posts are already setup.
 
 ### Markdown Linting
 
 There were lots of little things wrong here and there, but the most confusing warning was rule `MD025 - Multiple top-level headings in the same document`. Reading the [documentation](https://github.com/DavidAnson/markdownlint/blob/v0.27.0/doc/md025.md), the warning comes when a front matter `title` variable is set, that is considered to be the top level heading, and any other top level heading is considered a duplicate. The warning can be disabled, but I'm ok with following the rule at this time.
 
-The other big flag was having inline HTML, most aggregiously in [Three Hundred Game Mechanics](https://github.com/guyinterlinked/guyinterlinked.github.io/blob/main/_posts/2023-03-11-three-hundred-game-mechanics.md?plain=1). I have endeavored to convert it to pure markdown.
+The other big flag was having inline HTML, most egregiously in [Three Hundred Game Mechanics](https://github.com/guyinterlinked/guyinterlinked.github.io/blob/main/_posts/2023-03-11-three-hundred-game-mechanics.md?plain=1). I have endeavored to convert it to pure markdown.
 
 ### Post Date/Times
 
