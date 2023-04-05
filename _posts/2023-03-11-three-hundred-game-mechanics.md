@@ -16,12 +16,12 @@ This post isn't about 300 game mechanics, it's about [Three Hundred Game Mechani
 
 Conventional wisdom is that "ideas are easy, execution is everything,"[^5] and I don't dispute it. Anyone can come up with an idea, but very few actually execute an idea. In this context, it would be easy to interpret *Three Hundred* as some kind of failure, as it is "merely game ideas," and not "game executions." I don't think that's the right way to look at it.
 
-![Snapshot of Three Hundred Website](/assets/images/uploads/three-hundred-webpage-snapshot.jpg)
+![Snapshot of Three Hundred Website](/assets/images/uploads/three-hundred-webpage-snapshot.jpg)  
 *The Three Hundred webpage, filled with ideas*
 
 *Three Hundred* isn't merely a list of game ideas, it is a list of ideas illustrated and described in detail. The ideas are solidified, crystallized, if not in game form, then in at least a pleasing form. Look again at what the website is intended to be: it's a challenge to create 300 game mechanics, and it is a wonderful execution of that idea.[^6] The copy is fun to read, illustrations are colorful and informative. A lot of effort went into the execution of delivering these ideas.
 
-[![Card Stack Hacker](/assets/images/uploads/three-hundred-stacker-hacker.jpg)](http://www.squidi.net/three/entry.php?id=268)
+[![Card Stack Hacker](/assets/images/uploads/three-hundred-stacker-hacker.jpg)](http://www.squidi.net/three/entry.php?id=268)  
 *Card Stack Hacker!*
 
 I consider myself a thoughtful guy. I am always making notes, constantly writing down ideas for things I'd like to make one day. Games, books, poems, movies, songs, all sorts of stuff. Until I made [www.guyinterlinked.com](https://www.guyinterlinked.com), all those notes could ever be is writing on a page. In my youth I thought, "yeah, one day I'm going to make that thing," but for most of those ideas, "one day" will never come. Even if I had the knowledge and skill to execute, there just isn't enough time. My personal challenge is that many of these ideas won't get out of of my head. I find myself making the same notes over and over, in different note books and different files, because the the thoughts are never fleshed out and given proper home. There is no sense of closure. *Three Hundred*, for me, is a great example of how to execute on communicating ideas. I cannot execute every idea I have to completion, but I absolutely can *communicate* about them, and perhaps in that way put them to rest.
