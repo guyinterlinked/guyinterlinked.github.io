@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meta Monday: Digressions"
-date: 2023-01-16 21:54:30 -0700
+date: 2023-01-16 21:54
 ---
 
 I often start by asking "Have you ever heard about...?" Today it was "Have you ever heard about [Jonathan Strange and Mr. Norrell](https://en.wikipedia.org/wiki/Jonathan_Strange_%26_Mr_Norrell)?"[^1] Last Wednesday it was, "Have you ever heard about Robert's Rules of Order?" I can't tell you how many times I've asked "Have you ever heard of [Mystery Science Theater 3000](https://www.gizmoplex.com)?"
@@ -20,8 +20,7 @@ Even so, I'm not so pretentious as to make things inscrutable. I, like most peop
 
 So if things here ever seem digressionary, have you ever heard about [The Story of the Old Ram](https://xroads.virginia.edu/~DRBR/twainram.html)?
 
-
-# Footnotes
+## Footnotes
 
 [^1]: I was originally going to link to [www.jonathanstrange.com](http://www.jonathanstrange.com/), but the link seems to have [rotted]({% link _posts/2023-01-03-the-permanent-link.md %}).
 

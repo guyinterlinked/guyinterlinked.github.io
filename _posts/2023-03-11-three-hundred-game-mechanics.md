@@ -34,7 +34,7 @@ As opposed to [digression]({% post_url 2023-01-16-meta-monday-digressions %}), w
 
 The situation is much like this picture.
 
-[![Photographer&#039;s infinite regression (28820301634)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Photographer%27s_infinite_regression_%2828820301634%29.jpg/512px-Photographer%27s_infinite_regression_%2828820301634%29.jpg "Paul Hudson from United Kingdom, CC BY 2.0 &lt;https://creativecommons.org/licenses/by/2.0&gt;, via Wikimedia Commons")](https://commons.wikimedia.org/wiki/File:Photographer%27s_infinite_regression_(28820301634).jpg)
+[![Photographer&#039;s infinite regression (28820301634)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Photographer%27s_infinite_regression_%2828820301634%29.jpg/512px-Photographer%27s_infinite_regression_%2828820301634%29.jpg "Paul Hudson from United Kingdom, CC BY 2.0 [https://creativecommons.org/licenses/by/2.0];, via Wikimedia Commons")](https://commons.wikimedia.org/wiki/File:Photographer%27s_infinite_regression_(28820301634).jpg)
 
 If the door is the *actual thing* I want to make, then the guy closest to the door is me writing a post about the idea of the thing. But sometimes the guy closest to the door isn't me (or at least not me in that moment) and I'm actually the second guy and I can only see the first guy, and not really a good shot of the *actual thing*. And sometimes I'm the third guy.[^8]  If that isn't complicated enough, sometimes the *actual thing* I want to make is a post about an *actual thing.*[^9]
 
