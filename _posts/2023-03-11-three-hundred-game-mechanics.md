@@ -55,7 +55,7 @@ Before I end this post, I'd like to share a small selection of mechanics from *T
 ## Further Reading
 
 - [A post about Three Hundred Game Mechanics](https://postrobcore.net/blog/three-hundred-game-mechanics/)
-- While *Three Hundred* inspired this site, this post was inspired by [Quantic - Infinite Regression](https://www.youtube.com/watch?v=wNw51L2iM3U)
+- While *Three Hundred* inspired this site, this post was inspired by [Quantic - Infinite Regression](https://www.youtube.com/watch?v=DFNNTQop2Zo)
 
 ## Footnotes
 
